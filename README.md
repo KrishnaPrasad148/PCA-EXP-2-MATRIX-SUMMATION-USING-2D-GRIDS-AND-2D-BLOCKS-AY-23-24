@@ -1,6 +1,5 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-# PCA: EXP-1  SUM ARRAY GPU
 <h3>NAME : KRISHNA PRASAD S</h3>
 <h3>REG NO. : 212223230108</h3>
 <h3>EX. NO. : 2</h3>
